@@ -1,0 +1,7 @@
+.venv/
+.esphome/
+__pycache__/
+*.bin
+*.elf
+.env
+secrets.yaml
